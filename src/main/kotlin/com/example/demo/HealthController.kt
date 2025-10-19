@@ -14,7 +14,7 @@ class HealthController {
             "status" to "UP",
             "timestamp" to LocalDateTime.now(),
             "service" to "spring-k8s-demo",
-            "version" to "1.0.0"
+            "version" to "1.0.1"
         )
         return ResponseEntity.ok(response)
     }
