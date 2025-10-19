@@ -15,6 +15,8 @@ spec:
       labels:
         app: spring-k8s-demo
     spec:
+      imagePullSecrets:
+      - name: regcred
       containers:
       - name: spring-k8s-demo
         image: 192.168.56.10:30500/spring-k8s-demo:latest
