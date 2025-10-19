@@ -36,4 +36,4 @@ docker run -p 8080:8080 spring-k8s-demo:1.0.0
 - `GET /` - 홈페이지
 - `GET /health` - 커스텀 헬스체크
 - `GET /actuator/health` - Spring Boot 헬스체크
-- `GET /actuator/prometheus` - Prometheus 메트릭
+- `GET /actuator/prometheus` - Prometheus 메트릭# Jenkins Polling Test Sun Oct 19 19:20:04 KST 2025
