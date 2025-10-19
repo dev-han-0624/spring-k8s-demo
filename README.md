@@ -38,3 +38,4 @@ docker run -p 8080:8080 spring-k8s-demo:1.0.0
 - `GET /actuator/health` - Spring Boot 헬스체크
 - `GET /actuator/prometheus` - Prometheus 메트릭# Jenkins Polling Test Sun Oct 19 19:20:04 KST 2025
 # Jenkins 자동 폴링 테스트 Sun Oct 19 19:33:40 KST 2025
+# 🎉 Jenkins CI 완전 자동화 성공! Sun Oct 19 20:52:38 KST 2025
